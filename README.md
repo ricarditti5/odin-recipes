@@ -6,6 +6,7 @@ Este Projeto vem com as inteções de melhorar minhas habilidades com HTML, onde
 
 ## Screenshots
 <img width="948" height="317" alt="image" src="https://github.com/user-attachments/assets/f01d43a6-7483-4f0c-bccf-5316d880ad72" />
+
 <img width="1300" height="685" alt="image" src="https://github.com/user-attachments/assets/2a53f39b-b773-4da3-892f-376b5fef5463" />
 
 
@@ -18,6 +19,7 @@ Este Projeto vem com as inteções de melhorar minhas habilidades com HTML, onde
 
 
 ## Estrutura do Projeto
+````
 /TOP-Receitas
 |-- index.html
 |-- README.md
@@ -25,7 +27,7 @@ Este Projeto vem com as inteções de melhorar minhas habilidades com HTML, onde
 |   |-- lasagna.html
 |-- image/
 |   |-- img1.jpeg
-
+````
 ## Conceitos Aplicados
 - Utilizei as tags mais atualizadas para melhor optimização do documento html.
 - 
