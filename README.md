@@ -5,8 +5,8 @@ Este Projeto vem com as inteções de melhorar minhas habilidades com HTML, onde
 
 
 ## Screenshots
-
-[]- colocar imagem final do site
+<img width="948" height="317" alt="image" src="https://github.com/user-attachments/assets/f01d43a6-7483-4f0c-bccf-5316d880ad72" />
+<img width="1300" height="685" alt="image" src="https://github.com/user-attachments/assets/2a53f39b-b773-4da3-892f-376b5fef5463" />
 
 
 ## Tecnologias
